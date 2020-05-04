@@ -1,5 +1,5 @@
 # RevelatorModKit
-This is a script mod manager/script extractor for Guilty Gear Xrd -REVELATOR-.  Supports normal and Etc files so far.
+This is a script mod manager/script extractor for Guilty Gear Xrd Rev2.  Supports normal and Etc files so far.
 
 ## Mod Manager Instructions
 1. Open the game.
@@ -11,8 +11,9 @@ This is a script mod manager/script extractor for Guilty Gear Xrd -REVELATOR-.  
 
 ###Naming conventions for files
 All files have the .ggscript extension and are either XXX.ggscript for normal script files or XXX_ETC.ggscript for etc script files.  Below is a list of the 3-letter abbrevations the game and this program uses for naming the characters.
-
+* Answer = ANS
 * Axl = AXL
+* Baiken = BKN
 * Bedman = BED
 * Chipp = CHP
 * Dizzy = DZY
